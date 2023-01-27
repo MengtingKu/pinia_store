@@ -1,0 +1,13 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+.card-img-top {
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: 300px;
+}
+
+.table-image {
+  width: 75px;
+  height: 75px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}/*# sourceMappingURL=all.css.map */
